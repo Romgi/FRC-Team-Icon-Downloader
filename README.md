@@ -14,6 +14,7 @@ There is a sample output folder in this repository so you can see what the final
 ----------Instructions----------
 
 pip install requests and bs4
+
 In the configuration section: paste the blue alliance link containing the list of teams you want to download
 Change the avatar year as needed
 Adjust output folder name to your preference
